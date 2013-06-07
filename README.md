@@ -2,6 +2,8 @@
 
 This seed project uses Yeoman with Angular and HAML. It's just 'yo angular' with CoffeeScript and HAML instead of JavaScript and HTML.
 
+See: [generator-angular](https://github.com/yeoman/generator-angular)
+
 ## Assumptions
 
 * brew
