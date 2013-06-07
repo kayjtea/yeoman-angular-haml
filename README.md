@@ -1,6 +1,6 @@
 # Yeoman-Angular-Haml
 
-This see project uses Yeoman with Angular and HAML. It's just 'yo angular' with CoffeeScript and HAML instead of JavaScript and HTML.
+This seed project uses Yeoman with Angular and HAML. It's just 'yo angular' with CoffeeScript and HAML instead of JavaScript and HTML.
 
 ## Assumptions
 
