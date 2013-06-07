@@ -11,27 +11,27 @@ This seed project uses Yeoman with Angular and HAML. It's just 'yo angular' with
 ## Installation
 
 First make sure brew is current:
-
-  brew updated
+      
+    brew update
 
 And same for nodejs
-
-  brew upgrade node
+    
+    brew upgrade node
 
 Install dependencies:
-
-  cd <project root>
-  npm install
+    
+    cd yeoman-angular-haml
+    npm install
 
 ## Test (Karma)
 
-  grunt test
+    grunt test
 
 ## Run
 
 Launch the server:
 
-  grunt server
+    grunt server
 
 
 Edit app/view/main.html.haml and watch the LiveReload goodness!
