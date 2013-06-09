@@ -26,7 +26,7 @@ And same for nodejs
 
 Install yeoman:
 
-    npm install -g grunt-cli bower
+    npm install -g yo grunt-cli bower
     
 Install haml gem:
 
