@@ -130,6 +130,9 @@ module.exports = function (grunt) {
       }
     },
     haml: {
+      options: {
+          language: "ruby"
+      },
       dist: {
         files: [{
           expand: true,
