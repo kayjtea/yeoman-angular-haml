@@ -3,3 +3,7 @@ dist
 .tmp
 .sass-cache
 app/components
+.idea
+*.iml
+libpeerconnection.log
+
