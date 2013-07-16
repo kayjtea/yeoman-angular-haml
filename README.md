@@ -12,7 +12,7 @@ See also:
 * brew
 * nodejs
 * chrome
-* ruby -- uses the haml gem at compile time
+* ruby -- uses the haml gem at compile time, and also compass
 
 ## Installation
 
@@ -31,6 +31,10 @@ Install yeoman:
 Install haml gem:
 
     gem install haml
+    
+Install compass for SASS support:
+
+    gem install compass
 
 Install dependencies:
     
